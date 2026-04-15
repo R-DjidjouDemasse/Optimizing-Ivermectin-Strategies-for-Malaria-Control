@@ -1,0 +1,15 @@
+Data IVM – Notes
+
+The following files correspond to the datasets associated with the formulations included in the ZIP archive:
+
+
+_drm.PD4J_VK5_F31.rds → formulation mdc-STM-001-0.6-vk5
+
+
+_data_mortality_rate_4j_LAIF06_KIS.csv → formulation mdc-STM-001-0.6-kis
+
+
+_Survie_anopheles_sauvage110923.xlsx → formulation mdc-STM-001-1.0
+
+
+_Oral_formulationF.csv → oral formulations (BOHEMIA, RIMDAMAL IIS, RIMDAMAL IIK).
